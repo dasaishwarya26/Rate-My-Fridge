@@ -1,4 +1,4 @@
-# 🧊 Rate My Fridge
+#  Rate My Fridge
 
 An AI-powered iOS app that analyzes your fridge photo and tells you what it says about you. Open your fridge, snap a photo, and get a witty rating, a fridge personality type, a roast, and recipe suggestions, all powered by AI vision.
 
